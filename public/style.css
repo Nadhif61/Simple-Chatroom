@@ -1,0 +1,67 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+  #intro{
+ 	background-color: rgb(42, 71, 197);
+
+	padding-bottom: 60px;
+	padding-top: 10px;
+	padding-left: 50px;
+ 	color: #FFFFFF;
+ 	height: 5%;	
+ } 
+
+
+ body { 
+ 	font: 20px;
+}
+
+ 
+ 
+ form { 
+ 	background: #574e4e; 
+ 	padding: 3px; 
+ 	position: fixed; 
+ 	bottom: 5px; 
+ 	width: 100%; 
+ }
+ 
+ form input { 
+ 	background-color: #beddec;
+ 	border: 0; 
+ 	padding: 10px; 
+ 	width: 90%; 
+ 	margin-right: 0.5%; 
+ }
+ 
+ form button { 
+ 	width: 9%; 
+ 	background: #01d9ff;
+ 	border: none; 
+ 	padding: 5px; 
+ 	font-size: 15px; 
+ }
+ 
+ #messages { 
+
+ 	margin: 0; 
+ 	padding: 0; 
+ 	
+ }
+ 
+ #messages li { 
+ 	padding: 5px 10px; 
+ }
+ 
+ #messages li:nth-child(odd) { 
+ 	background: #b3f4ff; 
+ }
+
+
+#list{
+	text-align: right;
+}
